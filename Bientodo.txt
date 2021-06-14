@@ -1,0 +1,23 @@
+<html>
+      <head>
+             <title>Antropofagia y canibalismo</title>
+      </head>
+
+<frameset rows=28%,* FRAMEBORDER="YES">
+          <frame src=TITULOCORRECTO1.html NORESIZE>      
+
+
+
+<frameset cols=20%,80%>
+         <frame src=INDICEBIEN6.html>  
+           
+
+ <frameset cols=50%,0%>
+         <frame src=Principaltodo.html>
+
+
+
+
+
+</frameset>
+</html>

@@ -1,0 +1,52 @@
+<html>
+          <head>
+                   <title>Antropofagia</title>
+          </head>
+<body>
+<body bgcolor="d3d3d3">
+
+<p><H1><FONT FACE=ARIAL><font size=6 color="d80000">Datos siniestros</font></H1></p>
+<ul type="disc">
+<li><H1>La carne humana tiene un sabor parecido al cerdo</H1>
+<p>O al menos así lo afirma Armin Meiwes, un caníbal famoso que asesinó a un 
+hombre y llegó a consumir hasta 20 kg de su carne. Él confesó que tenía un gusto 
+parecido a la carne de cerdo “pero un poco más amarga y más fuerte. Es un sabor 
+exquisito”. Aparentemente, la edad de la persona, la parte del cuerpo y, 
+evidentemente, la forma en que se cocina, influyen en el sabor final.
+<ul type="disc">
+<img src="Imagenes/cocina.JPG"/>
+
+<ul type="disc">
+<li><H1>Todos somos un poco canibales</H1>
+<p>O al menos algunas personas son lo que se denomina “autocaníbal”: si 
+alguna vez te comiste las uñas, los mocos, los pellejitos de los dedos o la 
+pielcita de los labios practicaste el autocanibalismo.Sin embargo, hay un lado 
+más siniestro de esto, porque el autocanibalismo puede 
+ser patológico: hay personas que directamente se autolesionan para comerse 
+partes de su propio cuerpo, en general por trastornos de ansiedad acompañados 
+por auto rechazo. 
+Quienes se lastiman gravemente suelen presentar alteraciones 
+en la conciencia y baja capacidad cognitiva.
+
+
+<img src="Imagenes/uñas.JPEG"/>
+
+
+<li><H1>Canibalismo para sobrevivir o antropofogia</H1>
+<p>Hay algunos casos en los que personas se vieron obligadas a comer carne 
+humana para sobrevivir. En estos casos, algunos antropólogos prefieren usar 
+el término “antropofagia” en lugar de “canibalismo”, ya que no se trata de un 
+hábito alimenticio, sino de una necesidad. Sin embargo, antropofagia en realidad 
+significa “comer carne humana” y no necesariamente se da entre la misma especie 
+(por ejemplo, el caso de un tigre que se come una persona).
+
+
+<ul type="disc">
+<img src="Imagenes/tren.JPG"/>
+
+
+
+
+
+</body>
+</html>

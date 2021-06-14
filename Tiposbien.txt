@@ -1,0 +1,37 @@
+<html>
+          <head>
+                   <title>Antropofagia</title>
+          </head>
+<body>
+<body bgcolor="d3d3d3">
+
+<p><H1><FONT FACE=ARIAL>Tipos de canibalismo</H1></p>
+<p>El canibalismo se divide en dos grupos principales: endocanibalismo y 
+exocanibalismo.</FONT></p>
+
+<img src="Imagenes/bosal.JPG"/>
+
+<p<FONT FACE=ARIAL>
+<ul type="disc">
+<li><H1><FONT FACE=ARIAL>Endocanibalismo</FONT></H1>
+<p><FONT FACE=ARIAL>Los endocaníbales comen los restos de sus amigos, familiares o miembros 
+muertos de su grupo como una forma de honrarlos y venerarlos. También puede 
+hacerse para “adquirir” algo del fallecido, como su sabiduría. La tribu de los 
+Fore en Papúa Nueva Guinea, por ejemplo, tienen ritos caníbales funerarios.</p>
+
+<img src="Imagenes/endocanibalismo.PNG"/>
+
+
+<li><H1><FONT FACE=ARIAL>Exocanibalismo</FONT></H1>
+<p>Los exocaníbales hacen lo mismo pero por mero placer y como una forma de 
+asustar a otros. Se suele basar en sentimientos de odio, ira, desprecio y 
+humillación, y suele darse cuando un grupo de personas come la carne de sus 
+enemigos. Un ejemplo son los Aztecas, que sacrificaban a soldados capturados, 
+y comerlos era un proceso de unión con los dioses.</FONT></p>
+
+
+<img src="Imagenes/mexicas.PNG"/>
+
+</body>
+</html>
+

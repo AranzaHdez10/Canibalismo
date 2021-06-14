@@ -1,0 +1,23 @@
+<html>
+          <head>
+                   <title>Pagina 1</title>
+          </head>
+<body>
+
+<body bgcolor="d3d3d3">
+
+<FONT SIZE=3><FONT FACE=ARIAL><H1>¿Qu&eacute es el canibalismo?<H1></FONT></FONT>
+<p><FONT SIZE=3><FONT FACE=ARIAL>El canibalismo es la práctica o el hecho de 
+alimentarse con individuos de la misma especie. El canibalismo puede ocurrir 
+tanto en los seres humanos como en animales de numerosas especies, aunque 
+tribalmente se relaciona más con la antropofagia o con los seres humanos que 
+devoran a sus semejantes. El origen de la expresión “caníbal” nace desde la 
+época en que los españoles arribaron a tierras americanas sorprendiéndose cuando 
+descubrieron que en los pueblos indígenas se acostumbraba a comer carne humana, 
+que resultaban de algunos rituales y ceremonias sagradas donde la víctima era 
+ofrecida como ofrenda a sus dioses.</FONT></p>
+
+<center><img src="Imagenes/canibal.JPG"/></center>
+
+</body>
+</html>

@@ -1,0 +1,27 @@
+<html>
+          <head>
+                   <title>Pagina2</title>
+          </head>
+<body>
+<body bgcolor="ff5858">
+
+<FONT SIZE=3><FONT FACE=ARIAL>
+
+
+<p><a href="Antropofagia4.html"
+Target="Indice">¿Qu&eacute es la antropofagia?</p>
+
+<p><a href="Canibalismo3.html"
+Target="Indice">¿Qu&eacute es el canibalismo?</p>
+
+<p><a href="Tiposbien.html"
+Target="Indice">Tipos de canibalismo</p>
+
+<p><a href="Datosbien1.html"
+Target="Indice">Datos siniestros</p>
+
+
+
+</p>
+</body>
+</html>
